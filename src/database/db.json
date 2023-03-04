@@ -1,0 +1,292 @@
+{
+  "recipes": [
+    {
+      "id": "0a2b8531-61e7-48d3-a6f6-05ee6cbb9d2f",
+      "name": "Chocolate Mousse",
+      "type": "Dessert",
+      "description": "A decadent and rich dessert",
+      "ingredients": [
+        "8 oz bittersweet chocolate",
+        "4 eggs, separated",
+        "1/4 cup sugar",
+        "1/4 cup heavy cream",
+        "1 tsp vanilla extract",
+        "Whipped cream and chocolate shavings for serving"
+      ],
+      "instructions": [
+        "Melt chocolate in a heatproof bowl set over a pot of simmering water.",
+        "Remove from heat and let cool for a few minutes.",
+        "In a separate bowl, beat egg whites until stiff peaks form.",
+        "In another bowl, beat egg yolks and sugar until light and fluffy.",
+        "Fold the melted chocolate into the egg yolk mixture.",
+        "In a separate bowl, beat heavy cream and vanilla extract until soft peaks form.",
+        "Fold the whipped cream and beaten egg whites into the chocolate mixture.",
+        "Chill in the fridge for at least 2 hours.",
+        "Serve with whipped cream and chocolate shavings on top."
+      ],
+      "createdAt": "03/03/2023, 14:10:12 PM",
+      "updatedAt": "03/03/2023, 14:10:12 PM"
+    },
+    {
+      "id": "6f8b0c62-4d03-4e7a-b9f2-fb7c4f0d2d39",
+      "name": "Pan-Seared Salmon",
+      "type": "Fish",
+      "description": "A simple and delicious way to cook salmon",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 tbsp olive oil",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/4 cup lemon juice",
+        "2 cloves garlic, minced",
+        "2 tbsp chopped fresh parsley"
+      ],
+      "instructions": [
+        "Season salmon fillets with salt and black pepper.",
+        "In a large skillet, heat olive oil over medium-high heat.",
+        "Add salmon fillets, skin-side down, and cook for 5-7 minutes, until crispy.",
+        "Flip salmon fillets and add lemon juice and garlic to the skillet.",
+        "Cook for an additional 2-3 minutes, until salmon is cooked through.",
+        "Serve hot, garnished with chopped parsley."
+      ],
+      "createdAt": "03/03/2023, 14:20:56 PM",
+      "updatedAt": "03/03/2023, 14:20:56 PM"
+    },
+    {
+      "id": "5d5f5e5f-6d3a-4919-a032-550a6e979a09",
+      "name": "Beef Stroganoff",
+      "type": "Meat",
+      "description": "A classic Russian dish made with beef and sour cream sauce",
+      "ingredients": [
+        "1 lb beef sirloin, sliced into thin strips",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 cup sliced mushrooms",
+        "2 tbsp flour",
+        "1 cup beef broth",
+        "1/2 cup sour cream",
+        "1 tsp Worcestershire sauce",
+        "1/2 tsp paprika",
+        "Salt and pepper to taste",
+        "Egg noodles, cooked according to package instructions"
+      ],
+      "instructions": [
+        "In a large skillet, heat oil over medium-high heat.",
+        "Add beef and cook until browned on both sides.",
+        "Add onion, garlic, and mushrooms and cook until softened.",
+        "Sprinkle flour over the mixture and stir until combined.",
+        "Pour in beef broth and stir until the mixture thickens.",
+        "Reduce heat to low and stir in sour cream, Worcestershire sauce, paprika, salt, and pepper.",
+        "Serve over cooked egg noodles."
+      ],
+      "createdAt": "03/03/2023, 14:10:56 PM",
+      "updatedAt": "03/03/2023, 14:10:56 PM"
+    },
+    {
+      "id": "235fcb97-930a-41ea-8cdd-2d9a1f2d1e22",
+      "name": "Grilled Salmon with Lemon and Dill",
+      "type": "Fish",
+      "description": "A light and flavorful seafood dish",
+      "ingredients": [
+        "4 salmon fillets",
+        "1 lemon, sliced",
+        "2 tbsp fresh dill, chopped",
+        "1 tbsp olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat grill to medium-high heat.",
+        "Brush salmon with olive oil and season with salt and pepper.",
+        "Grill salmon for 4-5 minutes per side, until cooked through.",
+        "Top with lemon slices and fresh dill before serving."
+      ],
+      "createdAt": "03/03/2023, 14:05:23 PM",
+      "updatedAt": "03/03/2023, 14:05:23 PM"
+    },
+    {
+      "id": "7c1ca5a1-bfdc-4e37-8e4a-3ed1e79ab2f2",
+      "name": "Vegetarian Chili",
+      "type": "Vegetarian",
+      "description": "A hearty and spicy meatless chili",
+      "ingredients": [
+        "1 onion, chopped",
+        "1 green bell pepper, chopped",
+        "1 red bell pepper, chopped",
+        "2 cloves garlic, minced",
+        "1 can black beans, drained and rinsed",
+        "1 can kidney beans, drained and rinsed",
+        "1 can diced tomatoes",
+        "1 cup vegetable broth",
+        "1 tbsp chili powder",
+        "1 tsp ground cumin",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper",
+        "Optional toppings: shredded cheese, chopped cilantro, diced avocado"
+      ],
+      "instructions": [
+        "In a large pot or Dutch oven, sauté the onion, bell peppers, and garlic over medium heat until softened.",
+        "Add the black beans, kidney beans, diced tomatoes (with juice), vegetable broth, chili powder, cumin, salt, and black pepper.",
+        "Bring the mixture to a boil, then reduce heat to low and simmer for 30-45 minutes, stirring occasionally.",
+        "Serve hot with your favorite toppings."
+      ],
+      "createdAt": "03/03/2023, 14:20:34 PM",
+      "updatedAt": "03/03/2023, 14:20:34 PM"
+    },
+    {
+      "id": "65f7cbbe-bcc9-4e0f-9d5c-77d69b8e1d45",
+      "name": "Grilled Tuna Steaks",
+      "type": "Fish",
+      "description": "A flavorful and healthy seafood dish",
+      "ingredients": [
+        "2 tuna steaks",
+        "1/4 cup olive oil",
+        "2 cloves garlic, minced",
+        "1 lemon, juiced",
+        "1/2 tsp dried oregano",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper"
+      ],
+      "instructions": [
+        "Preheat grill to high heat.",
+        "In a small bowl, whisk together olive oil, garlic, lemon juice, oregano, salt, and black pepper.",
+        "Brush the tuna steaks with the mixture on both sides.",
+        "Grill the tuna steaks for 3-4 minutes on each side, or until cooked to your desired doneness.",
+        "Serve hot with your favorite side dishes."
+      ],
+      "createdAt": "03/03/2023, 14:10:12 PM",
+      "updatedAt": "03/03/2023, 14:10:12 PM"
+    },
+    {
+      "id": "b4a2c4f5-2fc2-4a8b-b55b-453fc76e9cf3",
+      "name": "Pan-Seared Salmon",
+      "type": "Fish",
+      "description": "A delicious and healthy way to enjoy salmon",
+      "ingredients": [
+        "4 6-ounce salmon fillets",
+        "1 tablespoon olive oil",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1 tablespoon chopped fresh parsley",
+        "1 lemon, sliced"
+      ],
+      "instructions": [
+        "Preheat oven to 400°F.",
+        "Heat olive oil in a large oven-safe skillet over medium-high heat.",
+        "Season salmon fillets with salt and pepper, then add to skillet skin-side up.",
+        "Cook for 2-3 minutes until golden brown, then flip and cook for another 2-3 minutes.",
+        "Transfer skillet to oven and bake for 8-10 minutes until cooked through.",
+        "Garnish with chopped parsley and lemon slices before serving."
+      ],
+      "createdAt": "03/03/2023, 14:05:30 PM",
+      "updatedAt": "03/03/2023, 14:05:30 PM"
+    },
+    {
+      "id": "36f14e61-fd1e-4d92-b4b4-32c4174a1a5c",
+      "name": "Classic Tiramisu",
+      "type": "Dessert",
+      "description": "An Italian dessert made with layers of ladyfingers and mascarpone cheese",
+      "ingredients": [
+        "6 egg yolks",
+        "3/4 cup white sugar",
+        "2/3 cup milk",
+        "1 1/4 cups heavy cream",
+        "1/2 teaspoon vanilla extract",
+        "1 pound mascarpone cheese",
+        "1/4 cup strong brewed coffee",
+        "2 tablespoons rum",
+        "24 ladyfingers",
+        "1 tablespoon cocoa powder"
+      ],
+      "instructions": [
+        "In a medium saucepan, whisk together egg yolks and sugar until well combined.",
+        "Add milk and cook over low heat, stirring constantly, until mixture thickens.",
+        "Remove from heat and let cool.",
+        "In a large bowl, beat heavy cream and vanilla until soft peaks form.",
+        "Fold in mascarpone cheese and cooled egg mixture.",
+        "Mix together coffee and rum in a shallow dish.",
+        "Dip ladyfingers in coffee mixture and arrange in a single layer in a 9x13 inch dish.",
+        "Spread half of the mascarpone mixture over the ladyfingers.",
+        "Repeat with another layer of ladyfingers and mascarpone mixture.",
+        "Cover and refrigerate for at least 2 hours or overnight.",
+        "Before serving, dust with cocoa powder."
+      ],
+      "createdAt": "03/03/2023, 14:10:14 PM",
+      "updatedAt": "03/03/2023, 14:10:14 PM"
+    },
+    {
+      "name": "Steak with Roasted Vegetables",
+      "type": "Meat",
+      "description": "A juicy steak served with a side of roasted vegetables",
+      "ingredients": [
+        "1 lb sirloin steak",
+        "1 lb mixed vegetables (carrots, onions, bell peppers, zucchini)",
+        "2 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1 tsp dried thyme",
+        "1 tsp dried rosemary",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F.",
+        "Toss the mixed vegetables with 1 tablespoon of olive oil, minced garlic, dried thyme, dried rosemary, salt, and black pepper.",
+        "Place the vegetables in a baking dish and roast in the oven for 20 minutes.",
+        "Meanwhile, season the steak with salt and black pepper on both sides.",
+        "Heat the remaining tablespoon of olive oil in a skillet over high heat.",
+        "Add the steak and cook for 3-4 minutes per side for medium-rare.",
+        "Let the steak rest for 5 minutes before slicing and serving with the roasted vegetables."
+      ],
+      "id": "11543bb2-7db3-47d9-8ed8-a034482a2aa5",
+      "createdAt": "3/3/2023, 23:53:40",
+      "updatedAt": "3/3/2023, 23:53:41"
+    },
+    {
+      "id": "87d2cdeb-af3a-4535-a2e2-072395994b57",
+      "name": "Spaghetti Bolognese",
+      "type": "Meat",
+      "description": "A classic",
+      "ingredients": [
+        "1 lb spaghetti",
+        "1 lb ground beef",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 cloves garlic, minced"
+      ],
+      "instructions": [
+        "Cook spaghetti according to package instructions.",
+        "Meanwhile, brown the ground beef in a large skillet over medium-high heat.",
+        "Add in the chopped onion and minced garlic. Cook until softened."
+      ],
+      "createdAt": "4/3/2023, 14:03:33",
+      "updatedAt": "4/3/2023, 14:03:33"
+    },
+    {
+      "id": "a7e14de5-e345-418f-aa4b-8421783f77b7",
+      "name": "Grilled Salmon with Mango Salsa",
+      "type": "Fish",
+      "description": "A flavorful grilled salmon topped with fresh mango salsa",
+      "ingredients": [
+        "4 salmon fillets",
+        "1 ripe mango, peeled and diced",
+        "1/2 red onion, diced",
+        "1 red bell pepper, diced",
+        "1 jalapeño pepper, seeded and minced",
+        "2 tbsp lime juice",
+        "1 tbsp honey",
+        "1 tbsp olive oil",
+        "1 tsp cumin",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper"
+      ],
+      "instructions": [
+        "Preheat the grill to medium-high heat.",
+        "Season the salmon fillets with cumin, salt, and black pepper.",
+        "Grill the salmon for 4-5 minutes per side or until cooked through.",
+        "Meanwhile, in a bowl, mix together the diced mango, red onion, red bell pepper, jalapeño pepper, lime juice, honey, and olive oil.",
+        "Serve the grilled salmon topped with the mango salsa."
+      ],
+      "createdAt": "4/3/2023, 16:03:55",
+      "updatedAt": "4/3/2023, 16:03:55"
+    }
+  ]
+}
