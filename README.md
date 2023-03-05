@@ -30,7 +30,7 @@ The APIs provides the following endpoints:
 | GET | /recipes| Returns all recipes.
 | GET | /recipes/:id | Returns the recipe with the specified ID.
 | POST | /recipes | Creates a new recipe.
-| PATCH |/recipes/:id | Updates the recipe with the specified ID.
+| PUT |/recipes/:id | Updates the recipe with the specified ID.
 | DELETE | /recipes/:id | Deletes the recipe with the specified ID.
 
 ## Data Storage
