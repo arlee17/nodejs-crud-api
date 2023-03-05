@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const recipeController = require('../../controllers/recipeController');
+const recipeController = require('../controllers/recipeController');
 
 /**
  * @openapi
@@ -48,7 +48,7 @@ router.get("/:recipeId", recipeController.getOneRecipe);
  * @openapi
  * /api/v1/recipes/:
  *   post:
- *     summary: Create new recipe.
+ *     summary: Create new recipe
  *     tags:
  *       - Create recipe
  *     requestBody:

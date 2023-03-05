@@ -5,13 +5,13 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "Recipes from all the world API",
+      title: "Recipes from around the world",
       version: "1.0.0"
     },
   },
   apis: [
-    "./src/v1/routes/recipeRoutes.js",
-    "./src/database/Recipe.js"
+    "./routes/recipeRoutes.js",
+    "./database/Recipe.js"
   ],
 };
 

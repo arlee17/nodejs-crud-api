@@ -287,6 +287,34 @@
       ],
       "createdAt": "4/3/2023, 16:03:55",
       "updatedAt": "4/3/2023, 16:03:55"
+    },
+    {
+      "id": "90f50a1b-da43-4d08-929d-adf0dd4581ed",
+      "name": "Grilled Salmon with Mango Salsa 2",
+      "type": "Fish",
+      "description": "A flavorful grilled salmon topped with fresh mango salsa",
+      "ingredients": [
+        "4 salmon fillets",
+        "1 ripe mango, peeled and diced",
+        "1/2 red onion, diced",
+        "1 red bell pepper, diced",
+        "1 jalapeño pepper, seeded and minced",
+        "2 tbsp lime juice",
+        "1 tbsp honey",
+        "1 tbsp olive oil",
+        "1 tsp cumin",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper"
+      ],
+      "instructions": [
+        "Preheat the grill to medium-high heat.",
+        "Season the salmon fillets with cumin, salt, and black pepper.",
+        "Grill the salmon for 4-5 minutes per side or until cooked through.",
+        "Meanwhile, in a bowl, mix together the diced mango, red onion, red bell pepper, jalapeño pepper, lime juice, honey, and olive oil.",
+        "Serve the grilled salmon topped with the mango salsa."
+      ],
+      "createdAt": "4/3/2023, 19:01:16",
+      "updatedAt": "4/3/2023, 19:01:16"
     }
   ]
 }

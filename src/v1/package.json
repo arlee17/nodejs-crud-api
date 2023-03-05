@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "nodemon src/index",
-    "prod": "src/index"
+    "start": "node index",
+    "dev": "nodemon index",
+    "prod": "nodemon index"
   },
   "keywords": [],
   "author": "",

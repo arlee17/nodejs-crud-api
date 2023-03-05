@@ -1,7 +1,7 @@
-const recipeService = require('../../services/recipeService');
-const { getAllRecipes } = require('../../controllers/recipeController');
+const recipeService = require('../services/recipeService');
+const { getAllRecipes } = require('../controllers/recipeController');
 
-jest.mock('../../services/recipeService');
+jest.mock('../services/recipeService');
 
 describe('getAllRecipes', () => {
     const req = {};

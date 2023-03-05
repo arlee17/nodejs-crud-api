@@ -1,7 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const v1RecipeRouter = require("./v1/routes/recipeRoutes")
-const { swaggerDocs: V1SwaggerDocs } = require("./v1/swagger");
+const v1RecipeRouter = require("./routes/recipeRoutes")
+const { swaggerDocs: V1SwaggerDocs } = require("./swagger");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
