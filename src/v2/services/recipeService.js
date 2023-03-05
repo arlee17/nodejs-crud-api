@@ -13,8 +13,20 @@ async function getAllRecipes() {
             name: row.name,
             type: row.type,
             description: row.description,
-            ingredients: JSON.parse(row.ingredients),
-            instructions: JSON.parse(row.instructions),
+            ingredients: (() => {
+                try {
+                    return JSON.parse(row.ingredients);
+                } catch (error) {
+                    return row.ingredients;
+                }
+            })(),
+            instructions: (() => {
+                try {
+                    return JSON.parse(row.instructions);
+                } catch (error) {
+                    return row.instructions;
+                }
+            })(),
             createdAt: row.created_at,
             updatedAt: row.updated_at,
         }));
