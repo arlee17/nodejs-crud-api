@@ -4,6 +4,8 @@ The current version of the API (v2) uses a mySQL database for data storage.
 
 To connect to your database make sure you have all the necessary permissions and change the values in the database/dbConfig.js file.
 
+I leave you the example SQL commands to create the necessary table and some test recipe in the database/commands_examples.txt file.
+
 ## Installation
 
 To install the API, you must have Node.js installed on your system. Then, follow these steps:
