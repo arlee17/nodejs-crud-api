@@ -1,21 +1,29 @@
-# Recipe book api
+# Cookbook recipes APIs
 
 ## Introduction
 
-This is a Node.js API that provides endpoints for creating, reading, updating and deleting recipes.
+This is a collection of two APIs developed with Node.js.
+
+The user can create, read, update and delete cookbook recipes.
+
+The projects are divided into their respective directories and can be used separately.
+
+If you want to use them at the same time you have to change the port 3000 to one of the two to avoid conflicts.
+
 
 ## Installation
 
-To install the API, you must have Node.js installed on your system. Then, follow these steps:
+To install the APIs, you must have Node.js installed on your system. Then, follow these steps:
 
 - Clone this repository to your local machine.
-- Navigate to the project directory in your terminal.
+- Navigate to the project_directory/src/v1 or /v2 in your terminal.
 - Run `npm install` to install the project dependencies.
 - Run `npm run dev` to start the API in development mode.
 
+
 ## Endpoints
 
-The API provides the following endpoints:
+The APIs provides the following endpoints:
 
 | Method | Endpoint | Description |
 | ------ | ------ | ------ |
@@ -27,12 +35,23 @@ The API provides the following endpoints:
 
 ## Data Storage
 
-The current version of the API (v1) uses a JSON file as the database. The file is located at `database/db.json`.
-
+- V1 (version 1) uses a JSON file as the database for data storage.
+- V2 (version 2) uses a mySQL database for data storage.
 
 #### Future Versions
 
-Future versions of the API are planned to include:
+Future versions of the APIs are planned to include:
 
-- Version 2: Uses a mySQL database for data storage.
-- Version 3: Uses a MongoDB database for data storage.
+- V3 (version 3) uses a MongoDB database for data storage.
+
+## Testing
+
+Each project has its own unit tests.
+
+
+## Documentation
+
+Each API has its own documentation.
+
+
+> Note: I recommend using these APIs only for test or personal projects.
