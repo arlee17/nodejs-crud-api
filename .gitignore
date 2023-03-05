@@ -30,4 +30,4 @@ build/Release
 node_modules
 jspm_packages
 src/.DS_Store
-src/v1/.DS_Store
+.DS_Store
