@@ -31,3 +31,4 @@ node_modules
 jspm_packages
 src/.DS_Store
 .DS_Store
+src/v3/.env
