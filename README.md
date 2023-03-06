@@ -16,10 +16,11 @@ If you want to use them at the same time you have to change the port 3000 to one
 To install the APIs, you must have Node.js installed on your system. Then, follow these steps:
 
 - Clone this repository to your local machine.
-- Navigate to the project_directory/src/v1 or /v2 in your terminal.
+- Navigate to the project_directory/src/vX in your terminal.
 - Run `npm install` to install the project dependencies.
 - Run `npm run dev` to start the API in development mode.
 
+> Note: These are the general steps, each version may require further adjustments.
 
 ## Endpoints
 
@@ -37,12 +38,8 @@ The APIs provides the following endpoints:
 
 - V1 (version 1) uses a JSON file as the database for data storage.
 - V2 (version 2) uses a mySQL database for data storage.
-
-#### Future Versions
-
-Future versions of the APIs are planned to include:
-
 - V3 (version 3) uses a MongoDB database for data storage.
+
 
 ## Testing
 
