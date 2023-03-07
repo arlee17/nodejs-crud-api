@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a collection of two APIs developed with Node.js.
+This is a collection of three APIs developed with Node.js.
 
 The user can create, read, update and delete cookbook recipes.
 
