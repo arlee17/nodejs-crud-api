@@ -10,7 +10,7 @@ const options = {
         },
     },
     apis: [
-        "./routes/Recipe.js"
+        "./routes/recipeRoutes.js"
     ],
 };
 
