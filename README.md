@@ -8,7 +8,7 @@ The user can create, read, update and delete cookbook recipes.
 
 The projects are divided into their respective directories and can be used separately.
 
-If you want to use them at the same time you have to change the port 3000 to one of the two to avoid conflicts.
+If you want to use them at the same time you have to change the port 3000 to one of them to avoid conflicts.
 
 
 ## Installation
