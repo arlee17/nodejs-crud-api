@@ -9,7 +9,7 @@ To connect to your database make sure you have all the necessary permissions and
 To install the API, you must have Node.js installed on your system. Then, follow these steps:
 
 - Clone this repository to your local machine.
-- Navigate to the project_directory/src/v2 in your terminal.
+- Navigate to the project_directory/src/v3 in your terminal.
 - Create your .env file.
 - Run `npm install` to install the project dependencies.
 - Run `npm run dev` to start the API in development mode.
